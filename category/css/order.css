@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    /* border: 1px solid black; */
+}
+body {
+    /* background-color: #faf9f6; */
+    background-color: #E8E2E2;
+    font-family: Poppins, sans-serif;
+    /* border: 3px solid black; */
+}
+#logo {
+    height: 18rem;
+    margin-left: 42rem;
+    display: block;
+    /* float: left; */
+    /* margin-bottom: 2rem; */
+    /* margin-right: 30rem; */
+    /* border: 1px solid black; */
+    /* float: left; */
+}
+.tbl-biru {
+    float: right;
+    text-decoration: none;
+    color: #1A120B;
+    margin-top: 0.6rem;
+    margin-right: 0.8rem;
+    font-size: 1.1rem;
+    /* margin-bottom: 20rem; */
+    bottom: 18rem;
+}
+.namatabel {
+    display: inline-block;
+    position: relative;
+    left: 0rem;
+}
+.total, .one {
+    left: 13rem;
+}
+.ship, .two{
+    left: 33rem;
+    bottom: 3rem;
+}
+.pay, .three {
+    left: 51rem;
+    bottom: 6rem;
+}
+.deliv, .four {
+    left: 75rem;
+    bottom: 9rem;
+}
+h2 {
+    margin-top: 1rem;
+}
+.one, .two, .three, .four {
+    color:darkgreen ;
+}
+.one {
+    bottom: 8rem;
+}
+.two {
+    bottom: 24.5rem;
+}
+.three {
+    bottom: 41rem;
+}
+.four {
+    bottom: 57.5rem;
+}

@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    /* border: 1px solid black; */
+}
+body {
+    /* background-color: #faf9f6; */
+    background-color: #E8E2E2;
+    font-family: Poppins, sans-serif;
+    /* border: 3px solid black; */
+}
+#logo {
+    height: 18rem;
+    margin-left: 42rem;
+    display: block;
+    /* float: left; */
+    /* margin-bottom: 2rem; */
+    /* margin-right: 30rem; */
+    /* border: 1px solid black; */
+    /* float: left; */
+}
+.tbl-biru {
+    float: right;
+    text-decoration: none;
+    color: #1A120B;
+    margin-top: 0.6rem;
+    margin-right: 0.8rem;
+    font-size: 1.1rem;
+    margin-bottom: 20rem;
+    bottom: 18rem;
+}
+.up {
+    display: block;
+}
+.down {
+    display: block;
+}
+h2 {
+    clear: both;
+    font-size: 2rem;
+    margin-left: 14rem;
+}
+img {
+    top: 0.4rem;
+    height: 14rem;
+    margin-left: 12rem;
+}
+.one {
+    float: left;
+}
+h3 {
+    position: relative;
+    font-family: Ubuntu, sans-serif;
+    font-size: 1.3rem;
+    left: 3rem;
+    top: 6rem;
+}
+.description {
+    float: left;
+    left: 10rem;
+}
+.right > h2 {
+    display: inline-block;
+    top: 5rem;
+    left: 12rem;
+    font-size: 1.7rem;
+    border: 2px solid black;
+    text-align: center;
+    padding: 7px 21px;
+    border-radius: 20%;
+}
+.one, .right {
+    display: block;
+}
+.bot > p {
+    clear: both;
+    display: inline;
+    font-size: 1.8rem;
+    color: #FF1E00;
+    top: 12rem;
+    right: 14.2rem;
+    /* display: block;
+    left: 12rem;
+    color: #FF1E00;
+    font-size: 1.8rem;
+    bottom: 4.5rem;
+    padding: 0; */
+}

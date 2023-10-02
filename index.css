@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+body {
+    /* background-color: #faf9f6; */
+    background-color: #E8E2E2;
+    font-family: Poppins, sans-serif;
+}
+#logo {
+    height: 15rem;
+    margin-left: 2rem;
+    /* border: 1px solid black; */
+}
+#welcome {
+    margin-top: 1rem;
+    font-size: 3rem;
+}
+#tagline {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+#welcome, #tagline, #gotoLogin {
+    margin-left: 15rem;
+    /* border: 1px solid black; */
+}
+#footer {
+    margin-top: 11rem;
+    text-align: end;
+    margin-right: 12px;
+}
+#gotoLogin {
+    border: 0.1rem solid black;
+    padding: 1rem;
+    border-radius: 40%;
+    text-decoration: none;
+    color: black;
+}
+/* #loginForm {
+    margin-top: 3rem;
+    margin-left: 15rem;
+}
+#inputEmail {
+    margin-left: 35px;
+}
+#buttonLogin {
+    margin-top: 1.5rem;
+} */

@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+body {
+    background-color: #E8E2E2;
+    font-family: Poppins, sans-serif;
+    font-size: 1rem;
+}
+#logo {
+    height: 18rem;
+    margin-left: 42rem;
+    display: block;
+}
+.tbl-biru {
+    float: right;
+    text-decoration: none;
+    color: #1A120B;
+    margin-top: 0.6rem;
+    margin-right: 0.8rem;
+    font-size: 1.1rem;
+    bottom: 18rem;
+}
+a {
+    text-decoration: none;
+    color: #562B08;
+}
+a > img {
+    width: 10%;
+}
+div.kategori {
+    display: inline-block;
+}
+div {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.orders {
+    right: 1rem;
+}
+.elektronik, .kesehatan {
+left: 9rem;
+}
+.elektronik {
+    top: 1rem;
+}
+.kesehatan {
+    bottom: 30rem;
+}
+.food, .oto {
+    left: 26rem;
+}
+.food{
+    bottom: 8rem;
+}
+.oto {
+    bottom: 38rem;
+}
+.perkap, .olah {
+    left: 44rem;
+}
+.perkap {
+    bottom: 15.4rem;
+}
+.olah {
+    bottom: 46.1rem;
+}
+.bajuP, .foto {
+    left: 63.5rem;
+}
+.bajuP {
+    bottom: 23.3rem;
+}
+.foto {
+    bottom: 54.5rem;
+}
+.bajuW, .aksesoris {
+    left: 80rem;
+    bottom: 31.7rem;
+}
+.aksesoris {
+    bottom: 62.7rem;
+}
