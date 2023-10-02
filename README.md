@@ -1,2 +1,2 @@
 # ship-shop
-simple database implementation on the login page of a website
+A simple e-commerce website that implements a database on the login page.
